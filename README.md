@@ -1,2 +1,2 @@
 # Calculadora
-Feito HTM, CSS, JavaScript
+Feito em Html, CSS, JavaScript
